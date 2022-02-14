@@ -1,4 +1,4 @@
-# Svelte Crash COurse
+# Svelte Crash Course
 
 This repo is just for me trying to use Sveletkit. It is made as part of a [video tutorial](https://youtu.be/UU7MgYIbtAk) on Youtube by James Q. Quick.
 
